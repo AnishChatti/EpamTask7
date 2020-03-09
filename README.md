@@ -1,1 +1,1 @@
-# EpamTask7
+# EpamTask7--Design Patterns.
